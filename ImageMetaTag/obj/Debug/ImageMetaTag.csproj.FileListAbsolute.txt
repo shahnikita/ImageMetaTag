@@ -1,0 +1,11 @@
+D:\Nikita\DemoProjects\ImageMetaTag\ImageMetaTag\bin\Debug\ImageMetaTag.exe.config
+D:\Nikita\DemoProjects\ImageMetaTag\ImageMetaTag\bin\Debug\ImageMetaTag.exe
+D:\Nikita\DemoProjects\ImageMetaTag\ImageMetaTag\bin\Debug\ImageMetaTag.pdb
+D:\Nikita\DemoProjects\ImageMetaTag\ImageMetaTag\obj\Debug\ImageMetaTag.csprojResolveAssemblyReference.cache
+D:\Nikita\DemoProjects\ImageMetaTag\ImageMetaTag\obj\Debug\ImageMetaTag.exe
+D:\Nikita\DemoProjects\ImageMetaTag\ImageMetaTag\obj\Debug\ImageMetaTag.pdb
+D:\Nikita\DemoProjects\ImageMetaTag\ImageMetaTag\bin\Debug\ICSharpCode.SharpZipLib.dll
+D:\Nikita\DemoProjects\ImageMetaTag\ImageMetaTag\bin\Debug\MetadataExtractor.dll
+D:\Nikita\DemoProjects\ImageMetaTag\ImageMetaTag\bin\Debug\XmpCore.dll
+D:\Nikita\DemoProjects\ImageMetaTag\ImageMetaTag\bin\Debug\MetadataExtractor.xml
+D:\Nikita\DemoProjects\ImageMetaTag\ImageMetaTag\bin\Debug\XmpCore.xml
